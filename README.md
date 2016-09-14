@@ -1,2 +1,1 @@
-# jquery-placeholder-typewriter
-jQuery placeholder typewriter effect
+![jQuery placeholderTypewriter Demo](http://assets.bdiekert.com/jquery-placeholderTypewriter/demo.gif)
