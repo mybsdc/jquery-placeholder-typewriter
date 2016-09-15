@@ -25,7 +25,17 @@
 <script>
 
   /* Placeholder Typewriter */
-  $('#search').placeholderTypewriter({text: ["Where would you like to go?", "Amsterdam?", "Paris?", "Berlin?", "London?", "New York?", "San Francisco?"]});
+  var placeholderText = [
+    "Where would you like to go?",
+    "Amsterdam?",
+    "Paris?",
+    "Berlin?",
+    "London?",
+    "New York?",
+    "San Francisco?"
+  ];
+
+  $('#search').placeholderTypewriter({text: placeholderText});
 
 </script>
 
